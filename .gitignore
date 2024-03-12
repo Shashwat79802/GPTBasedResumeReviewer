@@ -1,0 +1,5 @@
+.env
+.venv
+./ReviewerApp/__pycache__
+./ReviewerApp/migrations
+./ResumeReviewer/__pycache__
